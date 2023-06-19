@@ -1,0 +1,2 @@
+Source Path: D:\move-audio\recorder\D
+Destination Path: D:\move-audio\storage\audiostore\Vericore\Intake\2023\Primary
