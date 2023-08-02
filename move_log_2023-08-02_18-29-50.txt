@@ -1,0 +1,4 @@
+Moved D:\move-audio\recorder\Databases\OCC-4C~20230802.xml to D:\move-audio\storage\audiostore\Vericore\Intake\2023\Primary\OCC-4C\Databases\OCC-4C~20230802.xml
+Moved D:\move-audio\recorder\Databases\OCC-9A~20230420.xml to D:\move-audio\storage\audiostore\Vericore\Intake\2023\Primary\OCC-9A\Databases\OCC-9A~20230420.xml
+Moved D:\move-audio\recorder\Recordings\003\20230619\OCC-9A~64906f2f~5~7~102~575.mp3 to D:\move-audio\storage\audiostore\Vericore\Intake\2023\Primary\OCC-9A\Recordings\003\20230619\OCC-9A~64906f2f~5~7~102~575.mp3
+Moved D:\move-audio\recorder\Recordings\007\20230619\OCC-4C~64906f2f~5~7~102~571.mp3 to D:\move-audio\storage\audiostore\Vericore\Intake\2023\Primary\OCC-4C\Recordings\007\20230619\OCC-4C~64906f2f~5~7~102~571.mp3

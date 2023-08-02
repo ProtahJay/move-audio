@@ -1,0 +1,4 @@
+Moved D:\move-audio\recorder\Recordings\003\20230619\OCC-9A~64906f2f~5~7~102~575.mp3 to D:\move-audio\storage\audiostore\Vericore\Intake\2023\Primary\Primary\OCC-9A\Recordings\003\20230619\OCC-9A~64906f2f~5~7~102~575.mp3
+Moved D:\move-audio\recorder\Recordings\004\20230619\OCC-10D~6481ce98~5~5~102~507.mp3 to D:\move-audio\storage\audiostore\Vericore\Intake\2023\Primary\Primary\OCC-10D\Recordings\004\20230619\OCC-10D~6481ce98~5~5~102~507.mp3
+Moved D:\move-audio\recorder\Recordings\004\20230619\OCC-10D~6481e072~5~5~102~860.mp3 to D:\move-audio\storage\audiostore\Vericore\Intake\2023\Primary\Primary\OCC-10D\Recordings\004\20230619\OCC-10D~6481e072~5~5~102~860.mp3
+Moved D:\move-audio\recorder\Recordings\004\20230619\OCC-10D~6481e784~5~5~102~271.mp3 to D:\move-audio\storage\audiostore\Vericore\Intake\2023\Primary\Primary\OCC-10D\Recordings\004\20230619\OCC-10D~6481e784~5~5~102~271.mp3
